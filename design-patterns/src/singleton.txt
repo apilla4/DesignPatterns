@@ -1,0 +1,1 @@
+the class provides the same single object for each call--that is, it is restricting the instantiation of a class to one object and provides a global point of access to that class
